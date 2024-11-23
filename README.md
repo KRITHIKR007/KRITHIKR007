@@ -1,4 +1,3 @@
-## Hi there 👋
 # Krithik R
 
 ## 👨‍💻 About Me
