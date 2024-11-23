@@ -8,7 +8,7 @@ I’m passionate about integrating **AI/ML** and **design** to create innovative
 ## 🎓 Education
 **B.Tech in Computer Science (AIML Specialization)**  
 Jain Deemed-to-be University  
-(Expected Graduation: May 2025)
+(Expected Graduation: May 2027)
 
 ---
 
