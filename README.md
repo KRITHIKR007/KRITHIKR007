@@ -1,49 +1,56 @@
 <h1 align="center">Hey there 👋, I'm Krithik R</h1>
-<h3 align="center">AI/ML Designer & Developer | Senior Designer at The Turing Club | Outreach Lead | Co-Founder @ Apex One Studios</h3>
+<h3 align="center">AI/ML Designer & Developer | Senior Designer @ The Turing Club | Outreach Lead | Co-Founder @ Apex One Studios</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I'm currently working on **NeuroLens++**, an EEG-guided assistive vision system using YOLO11 + BPFINet + HoloLens 2.
-- 🎓 Final-year student at **Jain (Deemed-to-be) University**, majoring in CSE (AIML).
-- 🌐 Building **Apex One Studios** — a tech & marketing agency for startups.
-- 💡 Interested in **AI x Design**, **HCI**, and **AR-enhanced computing**.
-- 🧪 Published in IJRIT — *NeuroLens++: Brain-Signal-Guided Augmented Computer Vision for Assistive Devices*.
-- 🧩 Member of **CIRC** and **Vice Fellow at Under 25**.
+- 🎓 3rd Year B.Tech student at **Jain (Deemed-to-be) University**, Bangalore — specializing in **AI/ML**.
+- 🧠 Designing & developing AI systems with a creative edge — blending **logic with design**.
+- 🚀 Building **Apex One Studios**, a full-stack tech & marketing agency.
+- 🧪 Co-author of the research paper: *NeuroLens++: Brain-Signal-Guided Augmented Computer Vision for Assistive Devices* (IJRIT).
+- 🔭 Exploring **AR, EEG, HCI**, and next-gen assistive technologies.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-333?style=flat&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333?style=flat&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 
 ---
 
-### 🌱 Current Projects
+### 🚀 Projects
 
-- 🔬 **NeuroLens++**: Augmented Vision using Brain Signals
-- 🧠 **Let AI Speak**: Agentic AI Assistant for Multilingual Access
-- 🌐 **C&S Engineers Website** (Govt electrical contractor firm)
-- 🎯 **Infinity 2025** Event Registration Platform
-- 🛠️ **Apex One Studios** Agency Website & Client Dashboards
+#### 🔬 Current Highlights
+- 🧠 **NeuroLens++** – Brain-signal-guided AR for assistive vision (YOLO11 + BPFINet + HoloLens 2)
+- 🌐 **C&S Engineers Website** – Full-stack site for a licensed government contractor
+- 🧾 **Infinity 2025 Platform** – Django-based event registration with QR payment & admin dashboards
+- 🎨 **Skyscanner Ad Platform Redesign** – UI/UX + Dev-ready JIRA flows in Figma
+- 🧪 **Let AI Speak** – Agentic AI chatbot with multilingual capabilities (Hackathon build)
+
+#### 🕹️ Earlier Work
+- 🤖 **Code Crewsaders** – Chatbot built with NLP & design-first user flow
+- 🧑‍🏫 **LMS Front-End** – Web + mobile-ready Learning Management UI (Quizzes, Dashboards, Attendance)
+- 🎭 **The Turing Club Portal** – Design & outreach automation for internal club systems
+- 🧩 **Portfolio Site** – [krithikr007.github.io/krithik-r](https://krithikr007.github.io/krithik-r/) — built & maintained personally
 
 ---
 
-### 🌟 Featured Work
+### 🏆 Achievements
 
-- 🥇 Internship at **Goldman Sachs** & **Walmart**
-- 🧠 **Smart India Hackathon** Finalist Team — *TenserCore*
-- 🧑‍🎨 **Redesigned Skyscanner Ads Platform** in Figma
-- 🎤 Hosted & organized workshops at **The Turing Club**
+- 🧠 Selected for **Smart India Hackathon (SIH)** — *TenserCore Team*
+- 🧑‍💻 Interned at **Walmart** & **Goldman Sachs** (Virtual Experience)
+- 💡 **Vice Fellow** @ Under 25 | Core member @ CIRC
+- 🧑‍🎨 Senior Designer & **Outreach Lead** @ The Turing Club
+- 💬 Hosted workshops & speaker sessions with major tech firms
 
 ---
 
@@ -59,7 +66,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-krithik--r124-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/krithik-r124)](https://linkedin.com/in/krithik-r124)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://krithikr007.github.io/krithik-r/)](https://krithikr007.github.io/krithik-r/)
@@ -68,4 +75,4 @@
 
 ---
 
-<p align="center">“Building the bridge between logic & creativity — one pixel and one line of code at a time.”</p>
+<p align="center"><i>"Design meets Deep Tech — building what's next, one byte and pixel at a time."</i></p>
