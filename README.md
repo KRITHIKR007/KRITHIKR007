@@ -8,67 +8,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38b2ac&center=true&vcenter=true&width=600&lines=AI/ML+Developer;CEO+of+ApexOne+Studio;BCI+&amp;+Neurotech+Researcher;Full+Stack+Engineer" alt="Typing Tagline" />
 </p>
 
-As a BTech student specializing in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University), I am actively pursuing internships and opportunities within college clubs to enhance my skills and gain practical experience. I approach the dynamic field of technology with a forward-thinking mindset, fully aware of its transformative potential to shape the future.
+I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning (AIML) at Jain (Deemed-to-be) University. As an AI/ML developer, designer, researcher, and founder, I love building things at the intersection of technology, intelligence, design, and real-world utility.
 
 I'm constantly honing my skills through:
-* Engaging in projects and contributing to repositories.
-* Participating in internships and college club activities to gain hands-on experience.
-* Leading tech initiatives as Club Lead of Tech Turing Club.
+* Researching and developing brain-computer interface (BCI) applications.
+* Building intelligent automation systems and full-stack software products.
+* Applying product thinking, UI/UX design, and branding to technology projects.
 
 ### Professional Experience
 
 <table width="100%">
   <tr>
-    <td><b>Chief of AI, R&D</b><br/>ApexOne Studios</td>
-    <td align="right">January 2026 - Present</td>
+    <td><b>Founder & CEO</b><br/>ApexOne Studio</td>
+    <td align="right">Building AI-powered automation and software solutions</td>
   </tr>
   <tr>
-    <td><b>Technical Strategist</b><br/>ApexOne Studios</td>
-    <td align="right">November 2025 - January 2026</td>
+    <td><b>Lead Researcher (NeuroLens++)</b><br/>Jain University</td>
+    <td align="right">EEG brain-signal-guided AR computer vision research</td>
   </tr>
   <tr>
-    <td><b>Lead</b><br/>Turing Club</td>
-    <td align="right">May 2025 - January 2026</td>
-  </tr>
-  <tr>
-    <td><b>Design Lead</b><br/>Turing Club</td>
-    <td align="right">May 2024 - May 2025</td>
-  </tr>
-  <tr>
-    <td><b>Student Coordinator</b><br/>ZIGBEE CLUB FET-JU</td>
-    <td align="right">October 2023 - April 2024</td>
-  </tr>
-  <tr>
-    <td><b>Quality Assurance Analyst</b><br/>HELPY_MOTO</td>
-    <td align="right">December 2023 - March 2024</td>
-  </tr>
-  <tr>
-    <td><b>Technical Support Intern</b><br/>GAOTek Inc.</td>
-    <td align="right">November 2023 - December 2023</td>
-  </tr>
-  <tr>
-    <td><b>Member</b><br/>GDSC FET JU</td>
-    <td align="right">October 2023 - August 2024</td>
+    <td><b>Senior Designer & Outreach Lead</b><br/>The Turing Club</td>
+    <td align="right">UI/UX, branding, and creative outreach coordination</td>
   </tr>
 </table>
 
-### Hackathons Participated In
+### Selected Projects
 
-* Smart India Hackathon 2025 (PSID: SIH25100)
-* HackOn With Amazon (Season 5)
-
-### Projects Done
-
-* **[MoodAPP](https://github.com/KRITHIKR007/MoodAPP)** — Mood tracking web application with live deployment.
-* **[3Dmapper](https://github.com/KRITHIKR007/3Dmapper)** — Python Flask application to extract 3D maps from 2D maps.
-* **[GPT2_With_LoRA](https://github.com/KRITHIKR007/GPT2_With_LoRA)** — PyTorch-based fine-tuning of GPT-2 using LoRA with memory optimization.
-* **[stock_curtrend](https://github.com/KRITHIKR007/stock_curtrend)** — Custom Pinescript indicator for TradingView market trend visualization.
-* **[PROJECT_DROWSINESS](https://github.com/KRITHIKR007/PROJECT_DROWSINESS)** — Driver drowsiness detection system using computer vision.
-* **[TubeDown](https://github.com/KRITHIKR007/TubeDown)** — YouTube video downloader using yt-dl library.
-* **[HostelFoodBot](https://github.com/KRITHIKR007/HostelFoodBot)** — Web-based hostel food management chatbot.
-* **[MSML_Repository](https://github.com/KRITHIKR007/MSML_Repository)** — Machine Learning and Data Science experiential learning projects.
-* **[URlit](https://github.com/KRITHIKR007/URlit)** — URL shortener using TinyURL API.
-* **[Storage_Swipe](https://github.com/KRITHIKR007/Storage_Swipe)** — Storage management utility tool.
+* **[NeuroLens++](https://github.com/KRITHIKR007)** — A brain-signal-guided augmented computer vision system combining EEG, deep learning, computer vision, and AR technology.
+* **[Apex Edu](https://github.com/KRITHIKR007)** — Intelligent educational automation platform and learning system.
+* **[Infinity 2025](https://github.com/KRITHIKR007)** — Interactive event management and platform hosting dashboard.
+* **[Code Crewsaders & LMS](https://github.com/KRITHIKR007)** — Integrated learning management system and code execution dashboards.
+* **[Stock Signal Generator](https://github.com/KRITHIKR007)** — Financial indicator and market trend visualization platform.
+* **[AR Solutions & IoT Systems](https://github.com/KRITHIKR007)** — Connected hardware devices integrated with spatial augmented reality overlays.
 
 <!-- Social Icons -->
 <p align="center">
