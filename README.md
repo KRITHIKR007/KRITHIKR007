@@ -84,7 +84,7 @@ I work with a diverse set of technologies, structured for high-performance scale
     <tr>
       <td align="center" valign="top">
         <!-- Main Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKR007&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" alt="Krithik's Stats" height="195px" />
+        <img src="https://github-readme-stats.shion.dev/api?username=KRITHIKR007&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" alt="Krithik's Stats" height="195px" />
       </td>
       <td align="center" valign="top">
         <!-- Streak Stats Card -->
@@ -94,7 +94,7 @@ I work with a diverse set of technologies, structured for high-performance scale
     <tr>
       <td align="center" valign="top" colspan="2">
         <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRITHIKR007&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" width="100%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KRITHIKR007&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" width="100%" />
       </td>
     </tr>
   </table>
