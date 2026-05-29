@@ -77,9 +77,9 @@ I'm constantly honing my skills through:
 
 <br />
 
-<!-- GitHub Trophies -->
+<!-- GitHub### Trophies & Milestones -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KRITHIKR007&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=KRITHIKR007&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&v=1" alt="GitHub Trophies" width="100%" />
 </div>
 
 <br />
