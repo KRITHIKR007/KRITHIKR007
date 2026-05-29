@@ -8,93 +8,80 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38b2ac&center=true&vcenter=true&width=600&lines=AI/ML+Developer;CEO+of+ApexOne+Studio;BCI+&amp;+Neurotech+Researcher;Full+Stack+Engineer" alt="Typing Tagline" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/krithik-r-krix"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/krithik879"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/@r_krithik66663"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://youtube.com/@@krithikr3842"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:krithik@apexonestudio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <hr />
 
-## 💫 Overview & Focus
-
-I specialize in **Artificial Intelligence & Machine Learning (AIML)**. I build intelligent digital products, advanced BCI research systems, and modern web architectures.
-
-* 🧠 **Specialization**: B.Tech CSE (AIML) @ Jain (Deemed-to-be) University.
-* 🚀 **Leadership**: Founder & CEO of [ApexOne Studio](https://github.com/KRITHIKR007), developing automated workflows and enterprise AI solutions.
-* 🔬 **Neurotech**: Creator of **NeuroLens++**, an EEG brain-signal-guided augmented computer vision system.
-* 🎨 **Product Design**: Deeply focused on product thinking, clean UI/UX, and creative engineering.
-
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-I work with a diverse set of technologies, structured for high-performance scale:
-
-### ⚙️ Core Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,kotlin,rust,dart,php" alt="Languages" />
-  </a>
-</p>
-
-### 🌐 Frontend & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,flutter" alt="Frameworks" />
-  </a>
-</p>
-
-### 🧠 AI/ML & Deep Learning
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy" alt="AI/ML" />
-  </a>
-</p>
-
-### 🗄️ Backend, Cloud & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,supabase,sqlite,prisma,sequelize,aws,gcp,firebase,cloudflare" alt="Backend & Cloud" />
-  </a>
-</p>
-
-### 🎨 Design & Game Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal" alt="Design & Game Dev" />
-  </a>
-</p>
+<!-- 2-Column Overview and Biography -->
+<table width="100%" border="0">
+  <tr>
+    <td width="35%" valign="top">
+      <img src="https://img.shields.io/badge/Role-AI%2FML%20Developer%20%26%20Researcher-38b2ac?style=flat-square" width="100%" /><br/>
+      <img src="https://img.shields.io/badge/Organization-ApexOne%20Studio-007acc?style=flat-square" width="100%" /><br/>
+      <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20(AIML)-9f7aea?style=flat-square" width="100%" /><br/>
+      <br/>
+      <h3 align="left">Connect</h3>
+      <p align="left">
+        <a href="https://linkedin.com/in/krithik-r-krix"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a><br/>
+        <a href="https://instagram.com/krithik879"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a><br/>
+        <a href="https://x.com/@r_krithik66663"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a><br/>
+        <a href="https://youtube.com/@@krithikr3842"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a><br/>
+        <a href="mailto:krithik@apexonestudio.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="65%" valign="top" style="padding-left: 20px;">
+      <h3>About Me</h3>
+      <p>I am a computer science engineer specializing in Artificial Intelligence and Machine Learning. I design and build intelligent systems, automated workflows, and research-driven human-computer interfaces.</p>
+      <ul>
+        <li><b>ApexOne Studio</b>: Developing enterprise AI solutions and automated digital pipelines.</li>
+        <li><b>NeuroLens++</b>: Researching BCI integration, combining EEG brain signals with computer vision for assistive AR/VR devices.</li>
+        <li><b>Turing Club</b>: Experienced in branding, UI/UX design, and product thinking.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Analytics Dashboard
+## Tech Stack & Ecosystem
+
+I structure my development around a robust set of tools and frameworks:
+
+<table width="100%">
+  <tr>
+    <td width="25%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,kotlin,rust,dart,php" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>AI/ML & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy" alt="AI/ML" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,flutter" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,supabase,sqlite,prisma,sequelize,aws,gcp,firebase,cloudflare" alt="Cloud & DB" /></td>
+  </tr>
+  <tr>
+    <td><b>Design & Creative</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal" alt="Design" /></td>
+  </tr>
+</table>
+
+---
+
+## Analytics Dashboard
 
 <div align="center">
-  <!-- Neon Activity Graph (31-day activity) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRITHIKR007&theme=react-dark&custom_title=Recent%20GitHub%20Activity&bg_color=181824&color=38b2ac&line=007acc&point=9f7aea" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td align="center" valign="top">
-        <!-- Main Stats Card -->
-        <img src="https://github-readme-stats.shion.dev/api?username=KRITHIKR007&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" alt="Krithik's Stats" height="195px" />
+      <td align="center" valign="top" width="50%">
+        <!-- Main Stats Card (with count_private & shion.dev mirror) -->
+        <img src="https://github-readme-stats.shion.dev/api?username=KRITHIKR007&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" alt="Krithik's Stats" height="195" />
       </td>
-      <td align="center" valign="top">
-        <!-- Streak Stats Card -->
-        <img src="https://streak-stats.demolab.com/?user=KRITHIKR007&theme=tokyonight&cache_seconds=1800&v=1" alt="Commit Streak" height="195px" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KRITHIKR007&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" width="100%" />
+      <td align="center" valign="top" width="50%">
+        <!-- Streak Stats Card (with cache control) -->
+        <img src="https://streak-stats.demolab.com/?user=KRITHIKR007&theme=tokyonight&cache_seconds=1800&v=1" alt="Commit Streak" height="195" />
       </td>
     </tr>
   </table>
@@ -102,21 +89,28 @@ I work with a diverse set of technologies, structured for high-performance scale
 
 <br />
 
-### 🏆 GitHub Trophies
+<div align="center">
+  <!-- Top Languages Card (Pie chart layout for visual size hierarchy) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KRITHIKR007&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" alt="Top Languages" height="300" />
+</div>
+
+<br />
+
+### Trophies & Milestones
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KRITHIKR007&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&v=1" alt="GitHub Trophies" width="100%" />
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+### Quotes & Daily Inspiration
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
 
-## 💰 Support My Journey
+## Support My Journey
 
 If you like my work or want to support my open-source projects, feel free to buy me a coffee!
 
