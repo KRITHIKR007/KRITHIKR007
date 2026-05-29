@@ -44,12 +44,6 @@
         <img src="https://streak-stats.demolab.com/?user=KRITHIKR007&theme=tokyonight&cache_seconds=1800&v=1" alt="Commit Streak" height="195" />
       </td>
     </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <!-- Top Languages Card (Pie chart layout for visual size hierarchy) -->
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KRITHIKR007&theme=tokyonight&count_private=true&cache_seconds=1800&v=1" alt="Top Languages" width="390" />
-      </td>
-    </tr>
   </table>
 </div>
 
