@@ -1,86 +1,31 @@
-<h1 align="center">Hey there 👋 I'm Krithik R</h1>
-<p align="center">
-  <b>AI/ML Developer | Designer | Tech + Branding Enthusiast</b><br>
-  <i>Senior Designer & Outreach Lead at <a href="https://github.com/TheTuringClub">The Turing Club</a> | Research Author | AIML Student at Jain University</i>
-</p>
+# 💫 About Me:
+KRITHIK R — Overview<br><br>KRITHIK R is a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning (AIML), an AI/ML developer, researcher, designer, and founder who focuses on building intelligent technology solutions by combining artificial intelligence, software development, product design, and automation.<br><br>He is currently pursuing B.Tech CSE (AIML) at Jain (Deemed-to-be) University and is passionate about emerging technologies such as Artificial Intelligence, Machine Learning, Agentic AI, Computer Vision, AR/VR, Brain-Computer Interfaces, and intelligent automation systems.<br><br>His work focuses on transforming ideas into real-world products by connecting research, engineering, and design. Rather than only learning technologies, he works on building complete systems — from concept and UI/UX design to development, AI integration, deployment, and real-world implementation.<br><br>As an AI/ML developer, KRITHIK R works with technologies including Python, TensorFlow, PyTorch, OpenCV, YOLO-based computer vision systems, and modern AI frameworks. His interests include developing intelligent assistants, automation platforms, prediction systems, and AI-powered applications that improve human workflows.<br><br>He is the Founder and CEO of ApexOne Studio, a technology-driven company focused on AI automation, software solutions, and data-powered growth systems. Through ApexOne Studio, his vision is to create intelligent enterprise solutions that help businesses automate operations, improve efficiency, and adopt next-generation AI technologies.<br><br>KRITHIK R is also involved in AI research, with work such as NeuroLens++ — a brain-signal-guided augmented computer vision system for assistive devices. This project explores the combination of EEG brain signals, deep learning, computer vision, and augmented reality to create smarter assistive technologies.<br><br>Along with artificial intelligence, he has experience in full-stack development using technologies such as React, Next.js, Django, Tailwind CSS, Firebase, and database systems. His projects include AI platforms, educational systems, event management software, chatbots, websites, and data-driven applications.<br><br>Beyond engineering, KRITHIK R has a strong creative background in UI/UX design, branding, and product development. As a former Senior Designer and Outreach Lead at The Turing Club, he has worked on connecting technology, creativity, and community collaboration.<br><br>His technical curiosity also extends into cybersecurity, exploring areas such as ethical hacking fundamentals, network analysis, Kali Linux, Wireshark, Burp Suite, and security testing.<br><br>His notable projects include NeuroLens++, Apex Edu, Infinity 2025, Code Crewsaders, LMS systems, Stock Signal Generator, AR-based solutions, and IoT-based systems.<br><br>KRITHIK R represents a modern technology builder who combines AI research, software engineering, design thinking, and entrepreneurship. His long-term focus is on creating intelligent systems that solve real-world problems and contribute to the future of AI-driven innovation.<br><br>In short:<br><br>KRITHIK R is an AI engineer, researcher, product designer, and entrepreneur building the future through intelligent systems, automation, and human-centered technology.<br>
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KRITHIK R ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krithik879) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krithik-r-krix) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/krithik krithi.r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@r_krithik66663) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@krithikr3842) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krithik@apexonestudio.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KRITHIKR007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KRITHIKR007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KRITHIKR007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KRITHIKR007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KRITHIKR007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=KRITHIKR007&icon=1&color=4)](https://visitcount.itsvg.in)
 
-### 💡 About Me
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@KRITHIKR124) 
 
-- 🎓 B.Tech CSE (AIML) | Jain (Deemed-to-be) University | Batch of 2025  
-- 🚀 Exploring cutting-edge AI/ML research, product design & cross-platform development  
-- 🧠 Published Author: *NeuroLens++: Brain-Signal-Guided Augmented Computer Vision for Assistive Devices*  
-- 🛠️ Co-founder @ Apex One Studios — Tech + Branding agency  
-- 🌱 Currently deep-diving into Agentic AI, AR/VR, and Brain-Computer Interfaces  
-- 📢 Outreach Lead for driving student–industry collaboration  
-- 🧪 Member, CIRC (Center for Innovation, Research, and Creativity)  
-
----
-
-### 🛠 Tech Stack
-
-#### 👾 AI/ML & Data Science  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO11-black?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![BPFINet](https://img.shields.io/badge/-BPFINet-blueviolet?style=flat)
-
-#### 💻 Web & App Dev  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-#### 🔐 Cybersecurity  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-orange?style=flat)
-![Metasploit](https://img.shields.io/badge/-Metasploit-ffffff?style=flat)
-
-#### 🎨 Design  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Zeplin](https://img.shields.io/badge/-Zeplin-FFD400?style=flat&logo=zeplin&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-- 🧠 **NeuroLens++** – Brain-signal-guided AR computer vision system with YOLO11 + EEG + BPFINet + HoloLens 2  
-- 📱 **Infinity 2025** – Django + React event registration platform with QR code payment verification  
-- 🤖 **Code Crewsaders** – AI assistant chatbot for academic and technical queries  
-- 🌐 **C&S Engineers** – Full website for a licensed government electrical contracting firm (Mysuru)  
-- ⚙️ **LMS System** – Attendance, assignments, quizzes, dashboards for students & admins  
-- 📦 **Stock Signal Generator** – Buy/Sell signal AI using RSI, MACD, Bollinger Bands  
-- 🧾 **JPMC IB Simulation** – Completed Forage internship, including valuation & 2-pager analysis
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKR007&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRITHIKR007&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krithik-r124"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rkrithik795@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://krithikr007.github.io/krithik-r/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="https://github.com/KRITHIKR007"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/krithik.r007"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by <b>Krithik R</b>
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
